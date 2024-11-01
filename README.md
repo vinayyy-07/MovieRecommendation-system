@@ -23,6 +23,7 @@ The goal of this recommendation system is to provide movie suggestions based on 
 
 
 🛠️ How It Works
+
 1.Data Loading and Exploration 
   Loads movie data from the CSV file into a DataFrame for exploration and analysis.
   
