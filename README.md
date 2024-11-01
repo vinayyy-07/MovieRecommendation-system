@@ -48,6 +48,7 @@ The goal of this recommendation system is to provide movie suggestions based on 
 ## 📝 Example Usage
 
 Enter your favourite movie name: Inception
+
 Movies suggested for you:
 
 1. Inception
